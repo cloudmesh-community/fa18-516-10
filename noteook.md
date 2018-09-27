@@ -7,7 +7,7 @@
 
 * N/A
 
-# Week Fri 09/14/18 - 09/0/18
+# Week Fri 09/14/18 - 09/20/18
 
 * installed VirtualBox
 * installed Vagrant
