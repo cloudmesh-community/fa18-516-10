@@ -3,9 +3,7 @@ owner:
   firstname: "Rui"
   lastname: "Li"
   hid: "10"
-  community: "E516"
-
-
+  community: "e516"
 section:
     - title: TBD
       url:
