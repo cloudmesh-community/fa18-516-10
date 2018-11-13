@@ -2,19 +2,17 @@
 owner:
   firstname: "Rui"
   lastname: "Li"
-  hid: "10"
-  community: "E516"
-
-
+  hid: "fa18-516-10"
+  community: "e516"
 section:
     - title: TBD
-         url:
-chapter:
+      url:
+paper:
     - title: TBD
-         url:
+      url:
 project:
     - title: TBD
-         url:
+      url:
 other:
     - activity: TBD
-         url:
+      url:
