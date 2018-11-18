@@ -49,3 +49,9 @@
 * Add correspondent note in ReadMe regarding openstack setup and connection
 * Start adding flavors to VM class to allow users to customize command with parameters to nodes
 
+# Week Fri 11/09/18 - 11/15/18
+* fix several minor bugs in vm class and mongodb class to get them running
+* finish openstack flavor functions (resize, rebuild, rename) and supporting utils
+* add tests for openstack flavor functions
+* add vm refactors to provide generic functions for adjusting vm flavors of various providers
+
