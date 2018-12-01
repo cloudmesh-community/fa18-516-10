@@ -4,6 +4,7 @@ owner:
   lastname: "Li"
   hid: "fa18-516-10"
   community: "e516"
+<<<<<<< HEAD
 section:
     - title: Focus on cm4 project
       url:
@@ -19,3 +20,4 @@ other:
       url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vm
     - activity: implement and collaborate openstackcm component (OpenstackCM, OpenstackRefactor), write tutorials regarding using chameleon cloud
       url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack)
+
