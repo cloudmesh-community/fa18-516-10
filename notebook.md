@@ -55,3 +55,13 @@
 * add tests for openstack flavor functions
 * add vm refactors to provide generic functions for adjusting vm flavors of various providers
 
+
+# Week Fri 11/16/18 - 11/22/18
+* quick fix cmmongodb class
+* code cleanup for cmopenstack
+
+# Week Fri 11/23/18 - 11/30/18
+* fix some bugs in vm class
+* configure local mongodb to support cm operations
+* start integration
+

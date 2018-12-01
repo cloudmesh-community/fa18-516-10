@@ -5,14 +5,17 @@ owner:
   hid: "fa18-516-10"
   community: "e516"
 section:
-    - title: TBD
+    - title: Focus on cm4 project
       url:
 paper:
-    - title: TBD
+    - title: Focus on cm4 project
       url:
 project:
-    - title: TBD
-      url:
+    - title: cm4
+      url: https://github.com/cloudmesh-community/cm
 other:
-    - activity: TBD
-      url:
+    - activity: contribute to vm related class (vm, vmrefactor, cmopenstack) in cm4
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/cmmongo
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vm
+    - activity: implement and collaborate openstackcm component (OpenstackCM, OpenstackRefactor), write tutorials regarding using chameleon cloud
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack)
