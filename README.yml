@@ -19,5 +19,6 @@ other:
       url: https://github.com/cloudmesh-community/cm/tree/master/cm4/cmmongo
       url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vm
     - activity: implement and collaborate openstackcm component (OpenstackCM, OpenstackRefactor), write tutorials regarding using chameleon cloud
-      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack)
-
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack
+    - activity: integrate openstack functions to cm4 command. attend final week hackthon and contribute to reconstruction, retesting, and redeployment of cm4 project
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/command

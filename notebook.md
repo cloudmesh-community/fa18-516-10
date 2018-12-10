@@ -60,8 +60,18 @@
 * quick fix cmmongodb class
 * code cleanup for cmopenstack
 
-# Week Fri 11/23/18 - 11/30/18
+# Week Fri 11/23/18 - 11/29/18
 * fix some bugs in vm class
 * configure local mongodb to support cm operations
 * start integration
+
+# Week Fri 11/30/18 - 12/06/18
+* integrate openstack to cm4 commands 
+* developed documentations with other teammates
+* test running integration and fix several deployment bugs
+* add timeout mechanism to some funtions to handle delayed responses from provider
+
+# Week Fri 12/07/18 - 12/13/18
+* contribute to the reconstructure with teammates and professor in cm4
+* attend Friday hackthon, fix bugs in configuration, mongodb classes after integration. Add documents for clarification
 
